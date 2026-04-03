@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+
+.font-cursive {
+  font-family: 'Covered By Your Grace', cursive;
+}
+html {
+  scroll-behavior: smooth;
+}
+.bg-primary{
+  background-color: green;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* This is okay, keeps the fruit from causing side-scroll */
+}
+
+.bg-fav{
+  background:#beb996;
+}
