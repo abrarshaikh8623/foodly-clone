@@ -1,5 +1,5 @@
 
-import Navbar from "./components/layout/Navbar";
+import Navbar from "./components/layout/Navbar"
 import HeroSlider from "./components/home/HeroSlider";
 import AboutJuice from "./components/home/AboutJuice";
 import BeverageGrid from "./components/home/BeverageGrid";
