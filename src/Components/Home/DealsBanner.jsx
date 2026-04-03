@@ -1,5 +1,6 @@
 import { Send} from 'lucide-react';
 
+
 export default function DealsBanner() {
   return (
     <section 

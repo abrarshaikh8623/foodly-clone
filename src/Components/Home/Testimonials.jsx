@@ -1,6 +1,8 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
 
+import { motion } from "framer-motion";
+
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/pagination';
@@ -36,7 +38,7 @@ export default function TestimonialSection() {
       title: "Host Mother"
     },
     {
-      id: 2,
+      id: 5,
       image: "images/resource/author-5.jpg",
       text: "“Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.”",
       name: "Meredith Grant",

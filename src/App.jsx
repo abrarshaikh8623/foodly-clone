@@ -1,15 +1,15 @@
 
-import Navbar from "./Components/Layout/Navbar";
-import HeroSlider from "./Components/home/HeroSlider";
-import AboutJuice from "./Components/home/AboutJuice";
-import BeverageGrid from "./Components/home/BeverageGrid";
-import DealsBanner from "./Components/home/DealsBanner";
-import DetoxRecipe from "./Components/home/DetoxRecipe";
-import Testimonials from "./Components/home/Testimonials";
-import BlogSection from "./Components/home/BlogSection";
-import Footer from "./Components/Layout/Footer";
-import Gallery from "./Components/Home/Gallary";
-import UpcomingBeverage from "./Components/Home/UpcomingBeverage";
+import Navbar from "./components/layout/Navbar";
+import HeroSlider from "./components/home/HeroSlider";
+import AboutJuice from "./components/home/AboutJuice";
+import BeverageGrid from "./components/home/BeverageGrid";
+import DealsBanner from "./components/home/DealsBanner";
+import DetoxRecipe from "./components/home/DetoxRecipe";
+import Testimonials from "./components/home/Testimonials";
+import BlogSection from "./components/home/BlogSection";
+import Footer from "./components/layout/Footer";
+import Gallery from "./components/home/Gallary";
+import UpcomingBeverage from "./components/home/UpcomingBeverage";
 function App() {
   return (
     <div className="font-sans text-dark overflow-x-hidden">
